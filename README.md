@@ -1,4 +1,4 @@
-# 🎟️ Case Study: Sistema de Controle e Gestão de Eventos
+# Sistema de Controle e Gestão de Eventos
 
 > **Tipo de Projeto:** Solução Web sob medida para cliente / negócio local  
 > **Status:** Concluído / Entregue (Acesso restrito ao cliente)  
