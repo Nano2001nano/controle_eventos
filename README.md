@@ -1,7 +1,7 @@
 # 🎟️ Case Study: Sistema de Controle e Gestão de Eventos
 
 > **Tipo de Projeto:** Solução Web sob medida para cliente / negócio local  
-> **Status:** Em produção (Acesso restrito / ambiente interno do cliente)  
+> **Status:** Concluído / Entregue (Acesso restrito ao cliente)  
 > **Repositório:** [github.com/Nano2001nano/controle_eventos](https://github.com/Nano2001nano/controle_eventos)
 
 ---
