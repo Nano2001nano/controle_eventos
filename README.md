@@ -31,7 +31,7 @@ Foi desenvolvida uma aplicação web responsiva, centralizada e de alta performa
 
 | Painel Principal | Gestão de Eventos |
 | :---: | :---: |
-| ![Dashboard](public/screenshots/pagina_inicial.png) | ![Eventos](public/screenshots/historico_eventos.png) |
+| ![Dashboard](public/screenshots/pagina_inicial.png) | ![Eventos](public/screenshots/novo_evento.png) |
 
 ---
 
